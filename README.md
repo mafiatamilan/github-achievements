@@ -22,3 +22,4 @@ Tracking and unlocking GitHub achievements:
 - Feature 15: Verified Co-authored contribution
 - Feature 16: Verified Co-authored contribution
 - Feature 17: Verified Co-authored contribution
+- Feature 18: Verified Co-authored contribution
