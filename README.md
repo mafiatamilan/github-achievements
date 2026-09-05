@@ -7,3 +7,4 @@ Tracking and unlocking GitHub achievements:
 - [ ] Pair Extraordinaire
 - Feature 1: Co-authored contribution
 - Feature 2: Co-authored contribution
+- Feature 3: Co-authored contribution
