@@ -17,3 +17,4 @@ Tracking and unlocking GitHub achievements:
 - Feature 10: Co-authored contribution
 - Feature 11: Co-authored contribution
 - Feature 12: Co-authored contribution
+- Feature 13: Co-authored with noreply
