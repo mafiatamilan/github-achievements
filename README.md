@@ -8,3 +8,4 @@ Tracking and unlocking GitHub achievements:
 - Feature 1: Co-authored contribution
 - Feature 2: Co-authored contribution
 - Feature 3: Co-authored contribution
+- Feature 4: Co-authored contribution
