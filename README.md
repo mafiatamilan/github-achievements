@@ -6,3 +6,4 @@ Tracking and unlocking GitHub achievements:
 - [ ] Quickdraw
 - [ ] Pair Extraordinaire
 - Feature 1: Co-authored contribution
+- Feature 2: Co-authored contribution
