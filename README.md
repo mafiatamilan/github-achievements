@@ -5,3 +5,4 @@ Tracking and unlocking GitHub achievements:
 - [x] YOLO
 - [ ] Quickdraw
 - [ ] Pair Extraordinaire
+- Feature 1: Co-authored contribution
