@@ -16,3 +16,4 @@ Tracking and unlocking GitHub achievements:
 - Feature 9: Co-authored contribution
 - Feature 10: Co-authored contribution
 - Feature 11: Co-authored contribution
+- Feature 12: Co-authored contribution
